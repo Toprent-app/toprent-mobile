@@ -10,7 +10,7 @@ The mobile application is [designed] to provide users with the ability to view r
 5. Authentication is implemented using the Firebase Authentication service.
 
 ## User stories
-1. As a user, I want to be able to log in to the application using my credentials.
+1. As a user, I want to be able to log in to the application using my credentials or Google account.
 2. As a user, I want to be able to view the list of reservations assigned to me.
 3. As a user, I want to be able to view the details of the reservation.
 4. As a user, I want to be able to make a check-in process.
