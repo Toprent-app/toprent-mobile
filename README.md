@@ -82,7 +82,11 @@ The check-out section contains the following information:
 
 #### Screenshots
 <details>
-  <summary>Reservations completed</summary>
+  <summary>Reservations list relevant</summary>
+  <img alt="reservations-relevant" src=".github/reservations-relevant.png" />
+</details>
+<details>
+  <summary>Reservations list completed</summary>
   <img alt="reservations-completed" src=".github/reservations-completed.png" />
 </details>
 <details>
