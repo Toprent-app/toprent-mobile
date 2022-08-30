@@ -6,7 +6,7 @@ The mobile application is [designed] to provide users with the ability to view r
 1. The mobile app must be implemented using the [React-Native] framework.
 2. Api calls are made using the any GraphQL library.
 3. The application must be able to work in offline mode, and synchronize data with the server when the connection is restored.
-4. The API is already implemented and available at [https://cloud.toprent.app/api/graphql].
+4. The API is already implemented and available at https://cloud.toprent.app/api/graphql.
 5. Authentication is implemented using the Firebase Authentication service.
 
 ## User stories
