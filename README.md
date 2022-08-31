@@ -1,20 +1,13 @@
 # Technical task for the mobile application
-
-The mobile application is [designed] to provide users with the ability to view reservations assigned to them, make check-in and check-out process.
+The mobile app is an add-on for the [rental management service](https://toprent.app/en) and is intended to be used by the drivers who do delivery and collection of the rented cars.
+The mobile application is designed to provide users with the ability to view reservations assigned to them and make check-in and check-out processes.
 
 ## Technical requirements
 1. The mobile app must be implemented using the [React-Native](https://reactnative.dev) framework.
 2. Api calls are made using any GraphQL library.
-3. The application must be able to work in offline mode, and synchronize data with the server when the connection is restored.
+3. The application must be able to work in offline mode and synchronize data with the server when the connection is restored.
 4. The API is already implemented and available at https://cloud.toprent.app/api/graphql.
 5. Authentication is implemented using the Firebase Authentication service.
-
-## User stories
-1. As a user, I want to be able to log in to the application using my credentials or Google account.
-2. As a user, I want to be able to view the list of reservations assigned to me.
-3. As a user, I want to be able to view the details of the reservation.
-4. As a user, I want to be able to make a check-in process.
-5. As a user, I want to be able to make a check-out process.
 
 ## Features
 
@@ -173,3 +166,17 @@ The check-out section contains the following information:
   <summary>Checkout half done</summary>
   <img alt="checkout-half-done" src=".github/checkout-half-done.png" />
 </details>
+
+## User stories
+As a user, I want to be able to:
+1. log in to the application using my credentials or Google account.
+2. view the list of reservations assigned to me.
+3. view the details of the reservation.
+4. make a check-in process.
+5. make a check-out process.
+6. register internal and external damages of the car during check-in/check-out process.
+7. register odometer reading and fuel level during check-in/check-out process.
+8. view and confirm customer's data and documents during check-in process.
+8. view status and confirm customer's deposit and payment during check-in process.
+9. sign the contract check-in/check-out process.
+10. see the reservation under the completed tab after I finish the check-out process.
