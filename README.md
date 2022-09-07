@@ -178,5 +178,6 @@ As a user, I want to be able to:
 7. register odometer reading and fuel level during check-in/check-out process.
 8. view and confirm customer's data and documents during check-in process.
 8. view status and confirm customer's deposit and payment during check-in process.
-9. sign the contract check-in/check-out process.
-10. see the reservation under the completed tab after I finish the check-out process.
+9. see the generated contract before signing it.
+10. sign the contract check-in/check-out process.
+11. see the reservation under the completed tab after I finish the check-out process.
